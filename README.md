@@ -7,7 +7,7 @@
 
 # Continuous Integration
 
-_Create workflows that enable you to use Continuous Integration (CI) for your projects._
+_Create workflows that enable you to use Continuous Integration (CI) for your projects_
 
 <!--
   <<< Author notes: Start of the course >>>
